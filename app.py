@@ -3,6 +3,7 @@ Resume Screening AI - Main Streamlit Application
 BERT-powered NLP system for intelligent resume screening
 """
 
+import utils.session
 import streamlit as st
 import pandas as pd
 from datetime import datetime
